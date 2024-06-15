@@ -1,3 +1,6 @@
+#TODOS OS COMENTARIOS A RESPEITO DESTE CÓDIGO
+#ESTÁ NO ARQUIVO JUPITER (.IPYNB)
+
 from fpdf import FPDF
 
 descricao_projeto =input("Digite a descrição do projeto: ")
