@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O código Python abaixo utiliza as bibliotecas `yfinance`, `pyautogui` e `pyperclip` para obter dados de fechamento de algumas criptomoedas usando o Yahoo Finance e enviar esses dados como mensagem para contatos no WhatsApp.
+Este código Python utiliza as bibliotecas `yfinance`, `pyautogui` e `pyperclip` para obter dados de fechamento de algumas criptomoedas usando o Yahoo Finance e enviar esses dados como mensagem para contatos no WhatsApp.
 
 ### Instalação Prévia
 
