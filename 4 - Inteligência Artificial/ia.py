@@ -1,7 +1,7 @@
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
-#Iniciialização da Webcam
+#Inicialização da Webcam
 #Somente a Inicialização não irá abrir a tela de POP-UP dela
 webcam = cv2.VideoCapture(0)
 
